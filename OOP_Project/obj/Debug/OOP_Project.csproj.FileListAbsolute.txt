@@ -1,0 +1,10 @@
+X:\OOP_Project\OOP_Project\bin\Debug\OOP_Project.exe.config
+X:\OOP_Project\OOP_Project\bin\Debug\OOP_Project.exe
+X:\OOP_Project\OOP_Project\bin\Debug\OOP_Project.pdb
+X:\OOP_Project\OOP_Project\obj\Debug\OOP_Project.csproj.AssemblyReference.cache
+X:\OOP_Project\OOP_Project\obj\Debug\OOP_Project.csproj.CoreCompileInputs.cache
+X:\OOP_Project\OOP_Project\obj\Debug\OOP_Project.exe
+X:\OOP_Project\OOP_Project\obj\Debug\OOP_Project.pdb
+X:\OOP_Project\OOP_Project\bin\Debug\Information.dll
+X:\OOP_Project\OOP_Project\bin\Debug\Information.pdb
+X:\OOP_Project\OOP_Project\obj\Debug\OOP_Project.csproj.CopyComplete

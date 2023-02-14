@@ -1,0 +1,6 @@
+X:\OOP_Project\Information\bin\Debug\Information.dll
+X:\OOP_Project\Information\bin\Debug\Information.pdb
+X:\OOP_Project\Information\obj\Debug\Information.csproj.AssemblyReference.cache
+X:\OOP_Project\Information\obj\Debug\Information.csproj.CoreCompileInputs.cache
+X:\OOP_Project\Information\obj\Debug\Information.dll
+X:\OOP_Project\Information\obj\Debug\Information.pdb
